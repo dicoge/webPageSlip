@@ -46,7 +46,7 @@
 .main_footer {
   background: linear-gradient(-270deg, #0d47a1, #03a9f4);
   padding: 100px 0 0 0;
-  position: fixed;
+  /* position: fixed; */
   bottom: 0;
   right: 0;
   left: 0;
